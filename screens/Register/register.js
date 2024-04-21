@@ -92,14 +92,14 @@ const RegisterScreen = () => {
             onChangeText={(value) => onChange(value)}
             value={value}
             style={styles.input}
-            error={!!errors.password}
+            error={!!errors.senha}
           />
         )}
         name="senha"
-        rules={{ required: 'Password is required' }}
+        rules={{ required: 'Senha é obrigatória' }}
         defaultValue=""
       />
-      {errors.password && <Text style={styles.error}>{errors.password.message}</Text>}
+      {errors.senha && <Text style={styles.error}>{errors.senha.message}</Text>}
 
       <Button mode="contained" onPress={handleSubmit(onSubmit)} style={styles.button}>
         Cadastrar
