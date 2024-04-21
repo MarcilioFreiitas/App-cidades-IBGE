@@ -26,3 +26,15 @@ Você pode baixar o aplicativo diretamente do nosso repositório no GitHub. Bast
 Por favor, note que ambos, o frontend e o backend, precisam estar em execução para que o aplicativo funcione corretamente.
 
 Esperamos que você aproveite usar o "Cidades IBGE"! Se você tiver alguma dúvida ou feedback, não hesite em abrir uma issue no GitHub.
+
+## Login
+<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/900ad875-f16b-4e19-957f-abf72217d76f" width="300" height="600">
+
+## Cadastro
+<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/4aebccde-cf7c-40dc-9429-078f0000de2b" width="300" height="600">
+
+## Lista de cidades
+<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/8b543577-a4bd-47df-8f6f-dcfd0ebb6e63" width="300" height="600">
+
+## Detalhes da cidade 
+<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/ad5d84af-3ccf-4e7a-88d8-a3fd2185aa65" width="300" height="600">
