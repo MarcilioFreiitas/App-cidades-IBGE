@@ -73,6 +73,7 @@ const CustomLoginScreen = () => {
           <TextInput
             label="Senha"
             mode="outlined"
+            secureTextEntry
             onBlur={onBlur}
             onChangeText={(value) => onChange(value)}
             value={value}
