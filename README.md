@@ -37,4 +37,4 @@ Esperamos que você aproveite usar o "Cidades IBGE"! Se você tiver alguma dúvi
 <img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/8b543577-a4bd-47df-8f6f-dcfd0ebb6e63" width="300" height="600">
 
 ## Detalhes da cidade 
-<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/ad5d84af-3ccf-4e7a-88d8-a3fd2185aa65" width="300" height="600">
+<img src="https://github.com/MarcilioFreiitas/App-cidades-IBGE/assets/94507472/9f4632d3-95f7-4901-a8bf-e380a7c72ee2" width="300" height="600">
