@@ -16,6 +16,8 @@ Você pode baixar o aplicativo diretamente do nosso repositório no GitHub. Bast
 2. Execute o comando `npm install` para instalar todas as dependências do projeto.
 3. Após a instalação das dependências, execute o comando `npx expo start` para iniciar o aplicativo.
 
+**Nota Importante**: Lembre-se de alterar a URL no código do aplicativo para `localhost` se estiver emulando pelo computador, ou colocar o IP do computador no endereço se estiver usando um dispositivo físico para teste.
+
 ### Backend
 
 1. Navegue até a pasta do backend.
