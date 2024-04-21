@@ -26,15 +26,15 @@ const CityItem = ({ city, navigation }) => {
 
 const styles = StyleSheet.create({
   itemContainer: {
-    padding: 17, // Adiciona espaço entre os itens da lista
+    padding: 17,
   },
   cityName: {
     fontSize: 15,
     fontWeight: '700',
-    color: '#212121', // Aumenta o tamanho da fonte do nome da cidade
+    color: '#212121',
   },
   ufName: {
-    fontSize: 16, // Aumenta o tamanho da fonte do nome da UF
+    fontSize: 16,
   },
 });
 

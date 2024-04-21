@@ -94,10 +94,10 @@ const styles = StyleSheet.create({
     fontSize: 18,
     marginTop: 5,
     marginBottom: 8,
-    borderWidth: 1, // Adiciona borda
-    borderColor: '#000', // Define a cor da borda
-    borderRadius: 5, // Arredonda os cantos da borda
-    paddingLeft: 10, // Adiciona um pouco de espaço à esquerda do texto
+    borderWidth: 1,
+    borderColor: '#000',
+    borderRadius: 5,
+    paddingLeft: 10,
   },
   pagination: {
     flexDirection: 'row',
