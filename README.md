@@ -14,7 +14,7 @@ Você pode baixar o aplicativo diretamente do nosso repositório no GitHub. Bast
 
 1. Abra o terminal na pasta do frontend onde você extraiu o arquivo ZIP.
 2. Execute o comando `npm install` para instalar todas as dependências do projeto.
-3. Após a instalação das dependências, execute o comando `expo start` para iniciar o aplicativo.
+3. Após a instalação das dependências, execute o comando `npx expo start` para iniciar o aplicativo.
 
 ### Backend
 
