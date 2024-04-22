@@ -1,6 +1,6 @@
 # Cidades IBGE 🏙️
 
-"Cidades IBGE" é um aplicativo que se conecta à API do IBGE para trazer informações detalhadas sobre todas as cidades do Brasil. Ao clicar em uma cidade, o aplicativo exibe detalhes sobre a cidade selecionada. Além disso, o aplicativo também utiliza uma API de autenticação personalizada para o cadastro e autenticação de usuários.
+Cidades IBGE é um aplicativo que se conecta à API do IBGE para trazer informações detalhadas sobre todas as cidades do Brasil. Ao clicar em uma cidade, o aplicativo exibe detalhes sobre a cidade selecionada. Além disso, o aplicativo também utiliza uma API de autenticação personalizada para o cadastro e autenticação de usuários.
 
 Este projeto é composto por duas partes: o frontend, construído com React Native e Expo, e o backend, que lida com a autenticação do usuário.
 
