@@ -24,7 +24,6 @@ axios
         )
       )
     );
-    // Agora você pode usar o objeto 'city' conforme necessário
   })
   .catch((error) => {
     console.error(error);
