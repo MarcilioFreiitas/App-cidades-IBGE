@@ -2,7 +2,7 @@ axios
   .get('https://servicodados.ibge.gov.br/api/v1/localidades/municipios')
   .then((response) => {
     const cityData = response.data;
-    const city = new City(
+    const city = new city(
       cityData.id,
       cityData.nome,
       new Microrregiao(

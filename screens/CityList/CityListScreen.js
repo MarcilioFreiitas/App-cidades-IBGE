@@ -20,7 +20,6 @@ const CityListScreen = ({ navigation }) => {
       })
       .catch((error) => {
         console.error(error);
-        // Você pode adicionar mais tratamento de erros aqui, se necessário
       });
   }, []);
 
@@ -32,11 +31,9 @@ const CityListScreen = ({ navigation }) => {
             title="Logout"
             iconName="log-out"
             onPress={() => {
-              // Aqui você pode adicionar a lógica para o logout
-              // Por exemplo, limpar o armazenamento local, atualizar o estado global, etc.
               navigation.reset({
                 index: 0,
-                routes: [{ name: 'Login' }], // Substitua 'Login' pelo nome da sua tela de login
+                routes: [{ name: 'Login' }],
               });
             }}
             IconComponent={Ionicons}
